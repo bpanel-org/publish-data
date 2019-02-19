@@ -19,7 +19,7 @@
   "author": "bpanel-org",
   "license": "MIT",
   "dependencies": {
-    "@bpanel/simple-wallet": "^0.1.0",
+    "@bpanel/simple-wallet": "^0.4.2",
     "babel-cli": "^6.26.0",
     "babel-plugin-transform-runtime": "^6.23.0",
     "bufio": "^0.1.0"
